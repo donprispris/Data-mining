@@ -1,0 +1,8 @@
+numpy
+sklearn
+matplotlib
+unidecode
+beautifulsoup4
+requests
+pandas
+kivy

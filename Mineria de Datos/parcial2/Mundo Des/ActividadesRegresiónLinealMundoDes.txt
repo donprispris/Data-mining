@@ -1,0 +1,18 @@
+Actividad con Regresión Lineal
+
+I) EXCEL: Reducir la cantidad de variables de soporte del modelo mundoDes, Justificar las variables omitidas con la matriz de correlaciones entre las variables del caso.
+
+II) Python:
+II.1) Instalar python3 y el módulo de statsmodels en su caso.
+II.2) Ejecutar el código como está y comparar con el modelo de Excel.
+      La matriz de correlaciones se obtiene con df.corr() en el interactivo o print(df.corr()) en el código.
+
+III) Reducir el modelo sucesivamente eliminando las variables.
+
+Responda:
+
+	1) ¿Qué tanto se modifican los coeficientes al llevar a cabo las reducciones?
+        2) ¿Qué se puede decir de los inervalos de confianza (95% de cobertura) de los coeficientes?
+        3) ¿Cómo se alteran los intervalos de confianza de las "predicciones" (para los mismos datos con que se ajustó el modelo)?
+
+ 

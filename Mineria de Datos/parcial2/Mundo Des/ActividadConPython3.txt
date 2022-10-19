@@ -1,0 +1,44 @@
+Actividad a desarrollar con python 3 y statsmodels
+
+1) Installar Python 3 y el módulo de statsmodels
+
+   (es muy conveniente contar con privilegios de administrador)
+   Para llevara a cabo la instalación de Python usted tiene varias opciones.
+   1.1) Instalar Python3 de manera autónoma
+   descargar python3 para el Sistema Operativo (SO) y la modalidad del SO de 32 o 64 bits deseado
+
+               https://www.python.org/downloads/
+   ejecutar el instalador y seguir las instrucciones.
+   
+   1.1.2) Abrir una ventana de comados y escribir
+
+          pip install statsmodels
+         
+   1.2) Instalar Python3 con algún IDE específico
+   Por ejemplo con Anaconda3
+   descargar el instalador de
+
+      https://www.anaconda.com/products/distribution
+   ejecutar el instalador y seguir las instrucciones.
+
+   Abrir Anaconda3 y en el apartado de "environments" , del dado derecho buscae statsmodels, en caso de no encontrarlo soliciar una entana de comandos y escribir 
+
+		pip install statsmodels
+
+2) Colocar el archivo RegLin_00.py y el archivo con los datos MundoDes.csv en la misma carpeta, de preferencia que no esté en el escritorio ni en Documentos y que el nombre de la carpeta no tenga espacios en el nombre.
+
+3) Ejecutar el IDE correspondiente al producto instalado.
+   3.1) Para la versión autónoma abrir una ventana de comados y escribir
+      idle
+   o
+      idle3
+
+   3.2) "lanzar" Spyder
+
+4) Cargar el archivo de código (File->Open...)
+
+5) Ejecutar el còdigo con el botón de play o con F5 (Run).
+
+6) El programa de ejecutar.
+
+   
